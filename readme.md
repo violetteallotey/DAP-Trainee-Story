@@ -157,33 +157,33 @@ To pursue these roles at my dream companies, it's important I focus on developin
 
     Define your goals: Clarify your objectives and aspirations within the tech industry. Determine whether you want to specialize in a specific field like software development, data analytics, cybersecurity, or product management. Having a clear goal will help you stay focused and make informed decisions about your career path.
 
-Continuous learning: Embrace a mindset of continuous learning. The tech industry evolves rapidly, so it's essential to stay updated with the latest trends, technologies, and best practices. Dedicate time to self-study, online courses, workshops, or certifications to enhance your skills and knowledge.
+    Continuous learning: Embrace a mindset of continuous learning. The tech industry evolves rapidly, so it's essential to stay updated with the latest trends, technologies, and best practices. Dedicate time to self-study, online courses, workshops, or certifications to enhance your skills and knowledge.
 
-Gain practical experience: Theory is important, but practical experience is invaluable. Seek internships, part-time jobs, or freelance projects to gain hands-on experience in your chosen field. Practical exposure will not only enhance your skills but also provide valuable insights into the industry's working environment.
+    Gain practical experience: Theory is important, but practical experience is invaluable. Seek internships, part-time jobs, or freelance projects to gain hands-on experience in your chosen field. Practical exposure will not only enhance your skills but also provide valuable insights into the industry's working environment.
 
-Build a portfolio: Showcase your skills and projects by creating a portfolio. Develop personal projects or contribute to open-source initiatives to demonstrate your abilities and problem-solving skills. A portfolio is an effective way to impress potential employers and stand out from the competition.
+    Build a portfolio: Showcase your skills and projects by creating a portfolio. Develop personal projects or contribute to open-source initiatives to demonstrate your abilities and problem-solving skills. A portfolio is an effective way to impress potential employers and stand out from the competition.
 
-Networking: Networking is key to opening doors and discovering opportunities. Attend tech events, conferences, and meetups to connect with professionals in the industry. Engage with online communities, participate in forums, and build relationships with like-minded individuals. Networking can lead to mentorship, job referrals, and collaborations.
+    Networking: Networking is key to opening doors and discovering opportunities. Attend tech events, conferences, and meetups to connect with professionals in the industry. Engage with online communities, participate in forums, and build relationships with like-minded individuals. Networking can lead to mentorship, job referrals, and collaborations.
 
-Embrace collaboration: The tech industry thrives on collaboration. Seek opportunities to collaborate with others on projects or join tech communities where you can exchange ideas, seek advice, and learn from peers. Collaborative experiences will broaden your perspective and expose you to new approaches and techniques.
+    Embrace collaboration: The tech industry thrives on collaboration. Seek opportunities to collaborate with others on projects or join tech communities where you can exchange ideas, seek advice, and learn from peers. Collaborative experiences will broaden your perspective and expose you to new approaches and techniques.
 
-Problem-solving mindset: Develop a problem-solving mindset. The tech industry revolves around finding innovative solutions to challenges. Focus on developing strong analytical and critical thinking skills to tackle complex problems effectively.
+    Problem-solving mindset: Develop a problem-solving mindset. The tech industry revolves around finding innovative solutions to challenges. Focus on developing strong analytical and critical thinking skills to tackle complex problems effectively.
 
-Soft skills matter: While technical skills are essential, don't overlook the importance of soft skills. Communication, teamwork, adaptability, and time management are crucial in the tech industry. Cultivate these skills alongside your technical expertise to thrive in your career.
+    Soft skills matter: While technical skills are essential, don't overlook the importance of soft skills. Communication, teamwork, adaptability, and time management are crucial in the tech industry. Cultivate these skills alongside your technical expertise to thrive in your career.
 
-Remember, a career in tech requires continuous growth and adaptation. Embrace change, stay curious, and be proactive in seeking opportunities that align with your interests and goals.
+    Remember, a career in tech requires continuous growth and adaptation. Embrace change, stay curious, and be proactive in seeking opportunities that align with your interests and goals.
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+   Azubi Africa places a strong emphasis on providing comprehensive assistance to students throughout their learning journey. The institution offers a supportive learning environment with readily available online resources, including mentors, tutors, and online forums, which foster collaboration and facilitate knowledge sharing. I felt supported and encouraged to excel in my studies.
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    The Data Community Talk provided a valuable forum to learn from others, exchange ideas, and build relationships within the data community. It is encouraging to have a sense of belonging and engagement with like-minded individuals who share a passion for data analytics.
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    The lectures at Azubi Africa was engaging and interesting. The instructors delivered lectures in a captivating manner, making complex concepts accessible and relatable. 
 
 1. What happens if you miss a lecture? 
 
