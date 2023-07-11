@@ -83,9 +83,9 @@ To pursue these roles at my dream companies, it's important I focus on developin
 <td>1</td>
 <td>EDA-on-Indian-Startup-Funding-from-2018-2021</td>
 <td>I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team and potential investors trying to venture into the Indian start-up ecosystem make an informed decision.</td>
-<td>https://medium.com/@violetteallotey/an-exploratory-data-analysis-of-indian-start-up-funding-from-2018-to-2021-98551c01ac8</td>
+<td><a href='https://medium.com/@violetteallotey/an-exploratory-data-analysis-of-indian-start-up-funding-from-2018-to-2021-98551c01ac8'>Medium Article</a></td>
 <td>Add the deployed app link here...</td>
-<td>https://github.com/violetteallotey/EDA-on-Indian-Startup-Funding-from-2018-2021</td>
+<td><a href='https://github.com/violetteallotey/EDA-on-Indian-Startup-Funding-from-2018-2021'>Repo</a></td>
 <td>Add the development repository link here...</td>
 </tr>
 
