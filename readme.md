@@ -187,35 +187,40 @@ To pursue these roles at my dream companies, it's important I focus on developin
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    I am usually sent a reminder to endeavour to join the next lecture and also an email is sent to me on that note.
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    The flexibility of the program at Azubi Africa, as described, appears to be a valuable feature for individuals who are working or have other commitments. The ability to accommodate the schedules of busy professionals is essential for a successful learning experience.
+
+    The fact that the program is designed with flexibility in mind, allowing participants to access recorded sessions at their convenience, demonstrates an understanding of the diverse needs and time constraints of the learners. This feature enables individuals to learn at their own pace and fit their studies into their existing work or personal commitments.
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+    Yes, the projects worked on at Azubi Africa are designed to provide opportunities for students to test and apply their abilities and skills. These projects serve as practical exercises where students can demonstrate their understanding of the concepts learned and showcase their problem-solving and analytical skills.
+
+    The projects are typically structured to simulate real-world scenarios, allowing students to work on industry-relevant problems and challenges. By working on these projects, students can assess their abilities to collect, clean, and analyze data, apply statistical techniques, develop predictive models, and derive meaningful insights from the results.
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    Networking Opportunities: Enhancing networking opportunities within the program, such as organizing industry guest lectures, alumni interactions, or networking events, can facilitate valuable connections with professionals in the field. This can provide students with insights, mentorship, and potential career opportunities.
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+    A fee structure that allows students to pay back their fees after securing a job can be beneficial for individuals who may have financial constraints while pursuing their education.
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+    Yes it has for the better. There is a lot I can do with data analytics. For me, learning data analytics has opened up new career opportunities, enhanced my problem-solving skills, and enabled me to make data-driven decisions in various domains.
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    It is possible that I have gained a strong foundation in relevant skills and knowledge. Landing my dream job depends on various factors, including my overall skill set, experience, networking, and how well I demonstrate my capabilities to potential employers.
+
+    To enhance your chances of landing your dream job, consider leveraging your newly acquired skills by working on practical projects, building a portfolio, and seeking internships or entry-level positions in your desired field. Additionally, networking, attending industry events, and staying up-to-date with industry trends can help you establish connections and discover job opportunities.
 
 
 ## My Contacts
-`Please add your contacts here...`
++233240959761/+233302963629
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+
