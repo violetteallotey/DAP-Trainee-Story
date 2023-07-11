@@ -113,21 +113,23 @@ To pursue these roles at my dream companies, it's important I focus on developin
 
 <tr>
 <td>4</td>
+<td>Sales-Prediction-App-with-Streamlit
+ </td>
+<td>This is a simple web application for predicting sales based on input features using machine learning. The app is built using Streamlit and is a perfect demonstration of how easily you can build an interactive and user-friendly web application with Streamlit. </td>
+<td><a href='https://medium.com/@violetteallotey/predicting-sales-like-a-pro-how-to-build-a-machine-learning-model-with-streamlit-2ce407775f13'>Medium Article</a> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td><a href='https://github.com/violetteallotey/Sales-Prediction-App-with-Streamlit.git'>Repo</a> </td>
 <td> </td>
 </tr>
 
 <tr>
 <td>5</td>
+<td>Customer-Churn-Prediction-App-Gradio
+ </td>
+<td>This repository contains code for a customer churn prediction app. The app is built using Gradio, a Python library that allows developers to quickly build customizable interfaces for machine learning models. The app takes in data from the user about a customer and predicts whether that customer is likely to churn or not. The model used in this app is a random forest classifier that was trained on a customer churn dataset. </td>
+<td><a href='https://medium.com/@violetteallotey/the-art-of-keeping-customers-a-gradio-app-to-predict-customer-churn-29561620e97c'>Medium Article</a> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td><a href='https://github.com/violetteallotey/Customer-Churn-Prediction-App-Gradio.git'>Repo</a> </td>
 <td> </td>
 </tr>
 
