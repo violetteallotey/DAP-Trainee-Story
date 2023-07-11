@@ -72,7 +72,7 @@ To pursue these roles at my dream companies, it's important I focus on developin
 <tr>
 <td>#</td>
 <td>Project's Name</td>
-<td>Description</td>
+<td>Description   </td>
 <td>Article</td>
 <td>Deployed App</td>
 <td>App Repository</td>
