@@ -81,11 +81,13 @@ To pursue these roles at my dream companies, it's important I focus on developin
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
+<td>EDA-on-Indian-Startup-Funding-from-2018-2021</td>
+<td>In this project, I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team and potential investors trying to venture into the Indian start-up ecosystem make an informed decision.
+
+I used Python and Jupyter notebook for this project.</td>
+<td>https://medium.com/@violetteallotey/an-exploratory-data-analysis-of-indian-start-up-funding-from-2018-to-2021-98551c01ac8</td>
 <td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
+<td>https://github.com/violetteallotey/EDA-on-Indian-Startup-Funding-from-2018-2021</td>
 <td>Add the development repository link here...</td>
 </tr>
 
