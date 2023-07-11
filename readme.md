@@ -13,7 +13,7 @@ My experience in the data analytics program at Azubi was incredibly enriching an
 The Career Accelerator phase has introduced me to a wide range of crucial aspects in the field of data analytics. Firstly, it provided me with a deeper understanding of advanced statistical analysis techniques and predictive modeling. I gained hands-on experience in data manipulation, data visualization, and exploratory data analysis, enabling me to extract meaningful insights from complex datasets. Additionally, the program introduced me to machine learning algorithms and methodologies for building predictive models. Moreover, I learned how to effectively communicate my findings and insights to stakeholders through data storytelling and visualizations. Overall, the Career Accelerator phase has equipped me with the essential skills and knowledge needed to excel in data analytics and tackle real-world challenges in the industry.
 
 ## What enticed me to join the Data Analytics Program?
-Several factors enticed me to join the Data Analytics Program at Azubi. Firstly, the program's comprehensive curriculum stood out to me, covering essential topics such as data analysis, data visualization, statistical modeling, and machine learning. This ensured that I would gain a well-rounded skill set in the field of data analytics. Additionally, the program's emphasis on practical, hands-on learning through real-world projects and case studies appealed to me. It provided an opportunity to apply my knowledge to practical scenarios and build a strong portfolio of work. Furthermore, Azubi's reputation as a leading institution in the field of data analytics and the positive feedback from previous program participants gave me confidence in the program's quality and potential for career advancement. Overall, these factors combined to make the Data Analytics Program at Azubi a compelling choice for my professional development in the field of data analytics.
+Several factors enticed me to join the Data Analytics Program at Azubi. Firstly, the program's comprehensive curriculum stood out to me, covering essential topics such as data analysis, data visualization, statistics, and machine learning. This ensured that I would gain a well-rounded skill set in the field of data analytics. Additionally, the program's emphasis on practical, hands-on learning through real-world projects and case studies appealed to me. It provided an opportunity to apply my knowledge to practical scenarios and build a strong portfolio of work. Furthermore, Azubi's reputation as a leading institution in the field of data analytics in Ghana and the positive feedback from previous program participants gave me confidence in the program's quality and potential for career advancement. Overall, these factors combined to make the Data Analytics Program at Azubi a compelling choice for my professional development in the field of data analytics.
 
 ## What would I say my progress in tech has been since joining the program ? 
 Since joining the program, my progress in the tech field has been significant and rewarding. The Data Analytics Program at Azubi has equipped me with a solid foundation in various technical skills and knowledge essential for a career in data analytics. I have gained proficiency in programming languages such as Python, as well as statistical analysis and data manipulation techniques. I have also developed expertise in data visualization and exploratory data analysis, enabling me to effectively communicate insights to stakeholders. Moreover, the program introduced me to machine learning algorithms and predictive modeling, expanding my capabilities in leveraging data for making informed decisions. Overall, my progress in tech since joining the program has been substantial, empowering me with the necessary skills to excel in the field of data analytics.
@@ -82,9 +82,7 @@ To pursue these roles at my dream companies, it's important I focus on developin
 <tr>
 <td>1</td>
 <td>EDA-on-Indian-Startup-Funding-from-2018-2021</td>
-<td>In this project, I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team and potential investors trying to venture into the Indian start-up ecosystem make an informed decision.
-
-I used Python and Jupyter notebook for this project.</td>
+<td>I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team and potential investors trying to venture into the Indian start-up ecosystem make an informed decision.</td>
 <td>https://medium.com/@violetteallotey/an-exploratory-data-analysis-of-indian-start-up-funding-from-2018-to-2021-98551c01ac8</td>
 <td>Add the deployed app link here...</td>
 <td>https://github.com/violetteallotey/EDA-on-Indian-Startup-Funding-from-2018-2021</td>
@@ -93,21 +91,22 @@ I used Python and Jupyter notebook for this project.</td>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Regression-Project</td>
+<td>Corporation Favorita, a retail company, seeks to optimize its stock management system by accurately predicting the demand for its products. To achieve this, they have collected several datasets containing historical sales data, store locations, holidays, and oil prices. The company hopes to use this data to develop a machine learning model that can accurately forecast future demand and inform purchasing and stocking decisions.</td>
+<td>https://medium.com/@violetteallotey/regression-analysis-on-the-demand-of-corporation-favorita-products-b5863300db31</td>
+<td></td>
+<td>https://github.com/violetteallotey/Regression-Project.git</td>
 <td> </td>
 </tr>
 
 <tr>
 <td>3</td>
+<td>Classification-Project
+</td>
+<td>In this classification project, we aimed to predict whether a customer is likely to churn from a telecom company based on various features such as customer demographics, call usage, and account information. We started by exploring and visualizing the data to gain insights into the distribution and relationship between features. We then preprocessed the data by encoding categorical variables, scaling numerical features, and splitting the data into training and test sets.</td>
+<td>https://medium.com/@violetteallotey/churning-through-data-predicting-customer-turnover-with-machine-learning-bbe8cd5308f8</td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>https://github.com/violetteallotey/Classification-Project.githttps://github.com/violetteallotey/Classification-Project.git</td>
 <td> </td>
 </tr>
 
