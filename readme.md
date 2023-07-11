@@ -93,9 +93,9 @@ To pursue these roles at my dream companies, it's important I focus on developin
 <td>2</td>
 <td>Regression-Project</td>
 <td>Corporation Favorita, a retail company, seeks to optimize its stock management system by accurately predicting the demand for its products. To achieve this, they have collected several datasets containing historical sales data, store locations, holidays, and oil prices. The company hopes to use this data to develop a machine learning model that can accurately forecast future demand and inform purchasing and stocking decisions.</td>
-<td>https://medium.com/@violetteallotey/regression-analysis-on-the-demand-of-corporation-favorita-products-b5863300db31</td>
+<td><a href='https://medium.com/@violetteallotey/regression-analysis-on-the-demand-of-corporation-favorita-products-b5863300db31'>Medium Article</a></td>
 <td></td>
-<td>https://github.com/violetteallotey/Regression-Project.git</td>
+<td><a href='https://github.com/violetteallotey/Regression-Project.git'>Repo</a></td>
 <td> </td>
 </tr>
 
@@ -104,9 +104,10 @@ To pursue these roles at my dream companies, it's important I focus on developin
 <td>Classification-Project
 </td>
 <td>In this classification project, we aimed to predict whether a customer is likely to churn from a telecom company based on various features such as customer demographics, call usage, and account information. We started by exploring and visualizing the data to gain insights into the distribution and relationship between features. We then preprocessed the data by encoding categorical variables, scaling numerical features, and splitting the data into training and test sets.</td>
-<td>https://medium.com/@violetteallotey/churning-through-data-predicting-customer-turnover-with-machine-learning-bbe8cd5308f8</td>
+<td><a href='https://medium.com/@violetteallotey/churning-through-data-predicting-customer-turnover-with-machine-learning-bbe8cd5308f8'>Medium Article</a></td>
 <td> </td>
-<td>https://github.com/violetteallotey/Classification-Project.githttps://github.com/violetteallotey/Classification-Project.git</td>
+<td><a href='https://github.com/violetteallotey/Classification-Project.git'>Repo</a></td>
+<td></td>
 <td> </td>
 </tr>
 
